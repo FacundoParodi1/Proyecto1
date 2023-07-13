@@ -1,0 +1,117 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.container{
+    padding-right: 0 17rem 0 0;
+    margin: 0;
+}
+
+header.header{
+    padding-top: 10.5rem;
+    padding-bottom: 15rem;
+    text-align: center;
+    color: #fff;
+    background-image: url("../img/burga7.jpg");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    background-size: cover;
+}
+
+header.header2{
+    padding-top: 10.5rem;
+    padding-bottom: 15rem;
+    text-align: center;
+    color: #fff;
+    background-image: url("../img/burga7.jpg");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    background-size: cover;
+}
+
+header.masthead .masthead-subheading {
+    font-size: 1.5rem;
+    font-style: italic;
+    line-height: 1.5rem;
+    margin-bottom: 25px;
+}
+header.masthead .masthead-heading {
+    font-size: 3.25rem;
+    font-weight: 700;
+    line-height: 3.25rem;
+    margin-bottom: 2rem;
+}
+
+.carousel-item img{
+    height: 392.61px;
+}
+
+#section{
+    background-image: url("../img/burga6.jpg");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    background-size: cover;
+}
+
+section a i{
+    color: rgb(255, 255, 255);
+}
+
+
+#section h2{
+    padding: 15rem 0;
+}
+
+footer div h3{
+    padding: 14rem 1rem;
+}
+
+.col-6 a{
+    padding-left: 2rem;
+}
+
+footer a i{
+    color: yellow;
+}
+
+#carouselExampleCaptions{
+    width: 609.58;
+}
+
+a.hola{
+    text-decoration:  none;
+    border-radius: 10%;
+    border: 2px solid black;
+    color: #fff;
+}
+
+.field-text{
+    padding-top: 2rem;
+    height: 5rem;
+    width: 100%;
+}
+
+.field-text input{
+    height: 100%;
+    width: 100%;
+}
+
+.field-text textarea{
+    height: 100%;
+    width: 100%;
+}
+
+.field-submit {
+    padding: 3rem 0;
+}
+
+.field-submit input{
+    background-color: black;
+    color:#fff
+}
