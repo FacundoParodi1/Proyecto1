@@ -1,3 +1,60 @@
+.header {
+  padding-top: 10.5rem;
+  padding-bottom: 15rem;
+  text-align: center;
+  color: #fff;
+  background-image: url("../img/burga6.jpg");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  background-size: cover;
+}
+.header header .masthead-subheading {
+  font-size: 3rem;
+  font-style: italic;
+  line-height: 0.5rem;
+  margin-bottom: 25px;
+}
+.header header .masthead-heading {
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 3.25rem;
+  margin-bottom: 0;
+}
 
+footer div h3 {
+  padding: 10rem 0.5rem;
+}
+footer div div div a i {
+  color: yellow;
+  margin-left: 10px;
+}
 
+.container-form .fly-form-contact .field-text {
+  padding-top: 2rem;
+  height: 5rem;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container-form .fly-form-contact .field-text input {
+  height: 50%;
+  width: 50%;
+}
+.container-form .fly-form-contact .field-text textarea {
+  height: 100%;
+  width: 50%;
+}
+.container-form .fly-form-contact .field-submit {
+  padding: 3rem 0;
+}
+.container-form .fly-form-contact .field-submit input {
+  background-color: black;
+  color: #fff;
+}
+
+.contenedores {
+  height: 568px;
+}
 /*# sourceMappingURL=style.css.map */

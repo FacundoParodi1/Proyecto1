@@ -1,0 +1,27 @@
+.container-form{
+    .fly-form-contact{
+        .field-text{
+            padding-top: 2rem;
+            height: 5rem;
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            input{
+                height: 50%;
+                width: 50%;
+            }
+            textarea{
+                height: 100%;
+                width: 50%;
+            }
+        }
+        .field-submit{
+            padding: 3rem 0;
+            input{
+                background-color: black;
+                color:#fff
+            }
+        }
+    }
+}
