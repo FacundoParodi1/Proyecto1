@@ -1,9 +1,12 @@
 footer div h3 {
-  padding: 10rem 0.5rem;
+  font-size: 2rem;
+  margin: 100px 20px;
 }
-footer div div div a i {
-  color: yellow;
+footer div div a {
   margin-left: 10px;
+}
+footer div div a i {
+  color: yellow;
 }
 
 /*# sourceMappingURL=footer.css.map */

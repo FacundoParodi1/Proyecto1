@@ -1,25 +1,17 @@
-.container-form .fly-form-contact .field-text {
-  padding-top: 2rem;
-  height: 5rem;
-  width: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-.container-form .fly-form-contact .field-text input {
-  height: 50%;
-  width: 50%;
-}
-.container-form .fly-form-contact .field-text textarea {
-  height: 100%;
-  width: 50%;
-}
-.container-form .fly-form-contact .field-submit {
-  padding: 3rem 0;
-}
-.container-form .fly-form-contact .field-submit input {
-  background-color: black;
-  color: #fff;
-}
+/* Error: Undefined variable.
+ *   ,
+ * 2 |     font-family: $subtitulos;
+ *   |                  ^^^^^^^^^^^
+ *   '
+ *   scss\modulos\contactos.scss 2:18  root stylesheet */
 
-/*# sourceMappingURL=contactos.css.map */
+body::before {
+  font-family: "Source Code Pro", "SF Mono", Monaco, Inconsolata, "Fira Mono",
+      "Droid Sans Mono", monospace, monospace;
+  white-space: pre;
+  display: block;
+  padding: 1em;
+  margin-bottom: 1em;
+  border-bottom: 2px solid black;
+  content: "Error: Undefined variable.\a   \2577 \a 2 \2502      font-family: $subtitulos;\d\a   \2502                   ^^^^^^^^^^^\a   \2575 \a   scss\\modulos\\contactos.scss 2:18  root stylesheet";
+}
